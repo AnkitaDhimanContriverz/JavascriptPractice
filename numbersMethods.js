@@ -13,6 +13,6 @@ console.log(Number('Jonathan'))
 console.log(Number(num1));
 console.log(Number(new Date("1970-02-25")))
 
-//ParseInt
+//ParseIn  
 console.log(parseInt('20 years'));
 console.log(parseFloat('20. 07'));
