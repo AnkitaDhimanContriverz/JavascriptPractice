@@ -39,4 +39,10 @@ myFunction().then((value) => {
     .catch((error) => myDisplayer(error))
 
 
+//setTimeout
+const myFunc = () => {
+    console.log('Hello after 2 seconds');
+}
+setTimeout(myFunc, 2000)
+
 
