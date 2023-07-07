@@ -31,4 +31,4 @@ function power(base, pow) {
     return final;
 }
 var result = power(8, 2);
-console.log(result);
+console.log("The result is", result);
